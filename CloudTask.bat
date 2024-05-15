@@ -1,2 +1,3 @@
 @ECHO OFF
 dir
+PAUSE
